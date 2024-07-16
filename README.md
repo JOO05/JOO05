@@ -24,16 +24,21 @@
 ###  :hammer:Tools
 
 <p>
-<img src="https://img.shields.io/badge/Slack-E34F26?style=flatlogo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/Basecamp-1D2D35?style=flat&logo=basecamp&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logoGitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" />
+<img src="https://img.shields.io/badge/swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 
 ### ◼️Github Stats
 ![JOO05's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOO05&show_icons=true&theme=radical)
 
 ###  :mailbox:Contact
 
-<a href="mailto:twincornjr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logoGmail&logoColor=white" ></a>
+<a href="mailto:twincornjr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" ></a>
 
-###  🗄️Projects
-<a href="https://github.com/ProjectRemoa/Remoa_FE" target="_blank"><div style="color:red">클릭</div></a>
+###  🗄️Main Projects
+<a href="https://github.com/ProjectRemoa/Remoa_FE" target="_blank"><img src="https://img.shields.io/badge/Remoa-FFC233?style=flat&logo=lemonsqueezy&logoColor=white" ></a>
